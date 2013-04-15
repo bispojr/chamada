@@ -1,0 +1,4 @@
+strIrfanviewcommandLine = strIrfanviewLocation & " " & strDataPath & strPhotoRelPath & StrPhotofilename & " /resize=(" & intImageWidth & "," & intImageHeight & ") /aspectratio /convert=" & strDataPath & strPhotoRelPath & StrPhotofilename
+Retval = Shell(strIrfanviewcommandLine, vbHide)
+
+Resize with 70% from Facebook Profile Image
