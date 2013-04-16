@@ -1,0 +1,21 @@
+PASSO 1: Modifique o que quiser na sua pasta.
+
+PASSO 2: Abra o Git GUI.
+
+PASSO 3: Certifique-se em "Ajuda->Mostrar chave SSH" se vc tem uma chave pública.
+
+PASSO 4: Se não, crie uma chave pública e uma senha para ela. E depois atualize lá no github.com ("Settings->SSH").
+
+PASSO 5: Clique em "Atualizar" para ver as modificações.
+
+PASSO 6: Clique em "Marcar Alterados" para mandar pro Unstage.
+
+PASSO 7: Escreva um comentário sobre a versão nova e "Salvar revisão".
+
+PASSO 8: Clique em "Enviar" para mandar a sua versão para o github.com
+
+PASSO 9: Clique em "Outro local" e escreva "git@github.com:bispojr/<nome do repositorio>"
+
+PASSO 10: Digite a senha da chave pública q vc criou no PASSO 4.
+
+PASSO 11: Fique feliz.
