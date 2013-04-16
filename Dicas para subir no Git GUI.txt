@@ -19,3 +19,6 @@ PASSO 9: Clique em "Outro local" e escreva "git@github.com:bispojr/<nome do repo
 PASSO 10: Digite a senha da chave pública q vc criou no PASSO 4.
 
 PASSO 11: Fique feliz.
+
+PS: Se puder, abra o "Git bash" na pasta em questão e digite 
+"git remote add <nomeDoSeuRepositorio> git@github.com:bispojr/<nomeDoSeuRepositorio>". Assim vc cria um apelido p chamar (ao invés de digitar "Outro local" todas as vezes).
